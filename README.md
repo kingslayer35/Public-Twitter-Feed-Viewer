@@ -74,8 +74,8 @@
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/yourusername/x-feed-viewer.git
-cd x-feed-viewer
+git clone https://github.com/kingslayer35/Public-Twitter-Feed-Viewer.git
+cd Public-Twitter-Feed-Viewer
 
 # 2. Create virtual environment
 python -m venv venv
@@ -136,7 +136,7 @@ python app.py
 ## 📁 Project Structure
 
 ```
-x-feed-viewer/
+Public-Twitter-Feed-Viewer/
 ├── app.py                 # Main Flask application
 ├── config.py             # Configuration management
 ├── constants.py          # Centralized constants
@@ -289,7 +289,7 @@ The containerized backend runs on `http://localhost:5000` with health checks eve
 - **X Rate Limits** - Subject to Twitter API rate limiting (15 requests/15 min)
 - **2FA Accounts** - May require app-specific passwords
 
-See [GitHub Issues](https://github.com/yourusername/x-feed-viewer/issues) for full list and workarounds.
+See [GitHub Issues](https://github.com/kingslayer35/Public-Twitter-Feed-Viewer/issues) for full list and workarounds.
 
 ---
 
@@ -340,8 +340,8 @@ The developers are not responsible for:
 
 **⭐ Star this repo if you find it useful!**
 
-Made with ❤️ by developers, for the X community
+Made with ❤️ by garv, for the X community
 
-[Report Bug](https://github.com/yourusername/x-feed-viewer/issues) • [Request Feature](https://github.com/yourusername/x-feed-viewer/issues)
+[Report Bug](https://github.com/kingslayer35/Public-Twitter-Feed-Viewer/issues) • [Request Feature](https://github.com/kingslayer35/Public-Twitter-Feed-Viewer/issues)
 
 </div>
