@@ -1,0 +1,36 @@
+# Core Framework
+Flask==3.0.0
+Flask-Cors==4.0.0
+
+# X/Twitter API Integration
+twikit==2.0.0
+
+# Async Support
+asyncio==3.4.3
+
+# Firebase Integration
+firebase-admin==6.3.0
+
+# Retry Logic & Resilience
+tenacity==8.2.3
+
+# Environment Variables
+python-dotenv==1.0.0
+
+# Type Hints Support (Python 3.8+)
+typing-extensions==4.9.0
+
+# Optional: Testing Dependencies (uncomment if needed)
+# pytest==7.4.3
+# pytest-asyncio==0.21.1
+# pytest-cov==4.1.0
+# pytest-mock==3.12.0
+
+# Optional: Code Quality Tools (uncomment if needed)
+# black==23.12.1
+# flake8==7.0.0
+# pylint==3.0.3
+# mypy==1.7.1
+
+# Optional: Data Export (uncomment if implementing CSV export)
+# pandas==2.1.4
