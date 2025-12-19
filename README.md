@@ -153,12 +153,6 @@ x-feed-viewer/
 ├── tests/
 │   └── test_app.py       # Pytest test suite (85% coverage)
 │
-├── docs/
-│   ├── SETUP_GUIDE.md           # Complete installation guide
-│   ├── INTERVIEW_GUIDE.md       # STAR framework presentation
-│   ├── INTERVIEW_QA_COMPREHENSIVE.md  # 28 interview Q&A
-│   └── RESUME_BULLETS.md        # Resume bullet point options
-│
 ├── deployment/
 │   ├── Dockerfile               # Docker image definition
 │   └── docker-compose.yml       # Docker orchestration
